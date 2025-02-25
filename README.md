@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **PHP8, SQL, Javascript, Bootstrap5**
 
-- 📫 How to reach me **juangarzonc@gmail.com**
+- 📫 How to reach me **juangarzoncollazos@gmail.com**
 
 <br>
 
