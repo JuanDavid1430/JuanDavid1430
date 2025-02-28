@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [SGI] as Web Developer (https://ipscdo.com.co/)
 
-- 🌱 I’m currently learning **ReactJS 17 and good practices developing**
+- 🌱 I’m currently learning **Angular 18 and good practices developing**
 
 - 💬 Ask me about **PHP8, SQL, Javascript, Bootstrap5**
 
@@ -29,7 +29,7 @@
 <br>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanDavid1430&theme=dark&show_icons=true&hide_border=false&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JuanDavid1430&theme=dark&show_icons=true&hide_border=false&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDavid1430&theme=dark&show_icons=true&hide_border=false&layout=compact" />
 </p>
 
