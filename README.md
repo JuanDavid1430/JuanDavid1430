@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Angular 18 and good practices developing**
 
-- 💬 Ask me about **PHP8, SQL, Javascript, Bootstrap5**
+- 💬 Ask me about **PHP8, SQL, Javascript, Angular 18, Bootstrap5**
 
 - 📫 How to reach me **juangarzoncollazos@gmail.com**
 
