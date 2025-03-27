@@ -4,7 +4,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on [SGI] as Web Developer (https://ipscdo.com.co/)
+- 🔭 I’m currently working on [SGI] as Web Developer Full Stack (https://ipscdo.com.co/)
 
 - 🌱 I’m currently learning **Angular 18 and good practices developing**
 
