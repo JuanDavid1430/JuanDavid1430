@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Juan David Collazos</h1>
-<h3 align="center">I am a young man passionate about computers and web desing. From a very early age I have been developing in different programming languages ​​and always with the mentality of learning and improving myself.</h3>
+<h3 align="center">I am a young man passionate about computer science and software development. From a very early age, I have been developing in different programming languages, always with the mindset of learning and improving myself. I currently have two years of continuous experience as a full-stack web developer applying best practices.</h3>
 
 <br>
 <br>
 
-- 🔭 I’m currently working on [SGI] as Web Developer Full Stack (https://ipscdo.com.co/)
+- 🔭 I’m currently working on [DiscolmetsSAS] as Developer Full Stack (https://discolmets.com.co/)
 
-- 🌱 I’m currently learning **Angular 18 and good practices developing**
+- 🌱 I am currently learning **Cloud Management with AWS, Azure, and good development practices**.
 
-- 💬 Ask me about **PHP8, SQL, Javascript, Angular 18, Bootstrap5**
+- 💬 Ask me about **PHP8, SQL, Javascript, Angular 21, Bootstrap5, TailwindCSS**
 
 - 📫 How to reach me **juangarzoncollazos@gmail.com**
 
@@ -23,7 +23,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a></p>
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="SqlServer" width="40" height="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" alt="Azure" width="40" height="40" /></p>
+
 
 <br>
 <br>
