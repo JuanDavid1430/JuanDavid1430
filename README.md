@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan David Collazos</h1>
-<h3 align="center">Fullstack Web Developer | Enterprise Solutions & Process Automation Specialist</h3>
+<h3 align="center">Fullstack Web Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-2%20Years-blue?style=for-the-badge" alt="Experience">
@@ -18,7 +18,7 @@ Mi enfoque principal es la **automatización de procesos internos**, ayudando a 
 - 🌱 **Aprendiendo:** Gestión Cloud con AWS, Azure y buenas prácticas de desarrollo (Clean Code).
 - 💬 **Pregúntame sobre:** PHP8, SQL, Javascript, Angular, Bootstrap5 y TailwindCSS.
 - 📫 **Contacto:** [juangarzoncollazos@gmail.com](mailto:juangarzoncollazos@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/juan-david-collazos-garz%C3%B3n-069638373/)
+- 💼 **LinkedIn:** [IR](https://www.linkedin.com/in/juan-david-collazos-garz%C3%B3n-069638373/)
 
 ---
 
